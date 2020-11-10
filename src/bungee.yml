@@ -1,0 +1,5 @@
+name: PlayerLimiter
+main: com.AxiusDesigns.AxiusPlugins.PlayerLimiter.PlayerLimiterBungee
+author: AxiusDevelopment
+version: 0.7
+prefix: PL

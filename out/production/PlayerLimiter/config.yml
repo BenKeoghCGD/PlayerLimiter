@@ -1,0 +1,10 @@
+Limit:
+  Addition: '1'
+
+Random:
+  Enabled: false
+
+  ## MIN / MAX
+  ## if theres 3 players on the server, the player slots will be atleast 4 and at most 7
+  Min: '1'
+  Max: '3'
